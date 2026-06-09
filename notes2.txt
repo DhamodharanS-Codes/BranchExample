@@ -1,0 +1,11 @@
+Create Branch
+     ↓
+Commit
+     ↓
+Push Branch
+     ↓
+Pull Request (PR)
+     ↓
+Code Review
+     ↓
+Merge into main
