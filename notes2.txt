@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Create Branch
      ↓
 Commit
@@ -11,3 +12,16 @@ Code Review
 Merge into main
 
 follow these commands to run successful branch workflow
+=======
+Create Branch
+     ↓
+Commit
+     ↓
+Push Branch
+     ↓
+Pull Request (PR)
+     ↓
+Code Review
+     ↓
+Merge into main
+>>>>>>> 2e7a9bd56892294c1bc76683433ac7cf0293d073
